@@ -7,7 +7,7 @@ You are asked to create a RESTful web service using Spring Boot. The web service
 3. Build the Project
 4. Run the Project Run as -> Spring Boot app
 
-# How Run API's
+# How Run API's / The Postman documentation for the API.
 ![Arch Diagram-Page-3 drawio](https://user-images.githubusercontent.com/97538945/231589721-1f46acab-a8f9-42d2-85b0-ea93674d6763.png)
 
 ## total 6 API's
@@ -30,4 +30,9 @@ You are asked to create a RESTful web service using Spring Boot. The web service
 6) update user by ID
 ![image](https://user-images.githubusercontent.com/97538945/231591964-47939ffa-8858-4545-ab1c-d76496be108d.png)
 
-7) 
+# A document describing the architecture and design of the project.
+![Arch Diagram drawio](https://user-images.githubusercontent.com/97538945/231592355-d92b01f2-eeac-4483-bc3a-57e3e0e03e88.png)
+![Arch Diagram-Page-2 drawio](https://user-images.githubusercontent.com/97538945/231592367-7c86b2fe-822f-489e-8a7f-05185357e745.png)
+![Arch Diagram-Page-3 drawio](https://user-images.githubusercontent.com/97538945/231592372-2f24f941-0c6d-4250-bece-562fa9c67ed6.png)
+
+
